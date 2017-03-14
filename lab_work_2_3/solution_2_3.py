@@ -44,4 +44,4 @@ print(string[len(string)//2])
 Reverse text using slice
 """
 
-print(string[-1:0:-1])
+print(string[::-1])
