@@ -38,7 +38,7 @@ print(string[-1])
 Print 3rd from start and 3rd from the end
 """
 
-print(string[2:-2])
+print(string[2],string[-2])
 
 """
 Slice first 8 symbols
